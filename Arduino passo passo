@@ -1,0 +1,3 @@
+Pesquisamos Arduino IDE e instalamos o programa do arduino pelo site oficial, que disponibiliza o mesmo gratuitamente.
+O arquivo estava compactado, então descompactamos e abrimos o arquivo para testarmos se o programa fora instalado corretamente.
+Testamos o dispositivo arduino conectadando ele com um cabo USB no computador, e assim, as luzes deles piscaram mostrando que ele funcionava.
